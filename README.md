@@ -22,3 +22,4 @@ Hi there! 👋<br><br>I’m Utkarsh, a passionate Java Full Stack Developer and 
 [![](https://visitcount.itsvg.in/api?id=utkarshsingh17&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake_gif](https://github.com/utkarshsingh17/utkarshsingh17/blob/output/github-snake-dark.svg)
